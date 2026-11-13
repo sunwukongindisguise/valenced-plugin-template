@@ -1,5 +1,4 @@
 /// <reference types="@valenced/themes-api" />
-import { definePlugin } from '@valenced/api'
 
 export default definePlugin({
     preInit({ themes }) {
@@ -111,4 +110,3 @@ export default definePlugin({
         })
     },
 })
-
